@@ -24,5 +24,16 @@
 
 12. Combination
 
-13.Floats
+13.Floats.
+
+14. a script that converts a number from base 10 to base 16
+
+15. script that encodes and decodes text using the rot13 encryption. Assume ASCII
+
+16. a script that prints every other line from the input, starting with the first line
+
+17. a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
+
+
+
 
