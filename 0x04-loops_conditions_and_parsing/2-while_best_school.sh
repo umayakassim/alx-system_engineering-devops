@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # This script is displaying "Best School" 10 times
-i=0
-while ((i < 10))
+for i in $(seq 1 1 10)
 do
-	echo "Best School"
-    ((i++))
+    echo "Best School"
+    i=$(( i + 1 ))
 done
